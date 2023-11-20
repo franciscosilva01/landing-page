@@ -38,9 +38,8 @@ body {
 }
 
 .cabecalho-menu-item:hover{
-    background-color: #74473e;
-    transition: 2s;
-    border-radius: 10px;
+  color: #2F2325;
+    transition: 1s;
 }
 
 .conteudo {
@@ -132,4 +131,10 @@ body {
   height: 48px;
   display: block;
   margin: 0 auto;
+}
+
+.rodape > p {
+  text-align: center;
+  margin: 17px;
+  color: white;
 }
